@@ -1,11 +1,12 @@
 # Site settings
 title: SecFault
-email: twojkami@gmail.com
+email: mezarycałek@polsl.pl
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: "/groups/101341040698592/"
+facebook_username: "SecFault"
+facebook_link: "groups/101341040698592/"
 github_username: sec_fault
 
 # Build settings
